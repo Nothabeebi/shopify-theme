@@ -1304,6 +1304,7 @@
       "blocks": {
         "collection_gMbTE7": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "city_hide": "",
             "coll_title": "Birthday Selection",
@@ -1328,7 +1329,6 @@
         },
         "collection_dmBpRt": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "city_hide": "",
             "coll_title": "Hug Me Tight",
@@ -1337,7 +1337,6 @@
         },
         "collection_RjWALP": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "city_hide": "",
             "coll_title": "Seal with kiss",
@@ -1346,7 +1345,6 @@
         },
         "collection_rKtikB": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "city_hide": "",
             "coll_title": "Rosey Surprise",
@@ -1355,7 +1353,6 @@
         },
         "collection_DAyVap": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "city_hide": "",
             "coll_title": "heartfelt promises",
@@ -1364,7 +1361,6 @@
         },
         "collection_TnBBqt": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "city_hide": "",
             "coll_title": "Anniversary Gifts",
