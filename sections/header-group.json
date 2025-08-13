@@ -17,10 +17,10 @@
         "announcement_RnxM4p": {
           "type": "announcement",
           "settings": {
-            "text": "For Any Queries Please Call Us On +91-8108190591",
+            "text": "For Any Queries Please Call Us On +91-9848001137",
             "text_alignment": "center",
             "color_scheme": "accent-1",
-            "link": "https://wa.me/message/XU3XDBZYLU34B1"
+            "link": "https://wa.me/message/+919848001137"
           }
         },
         "announcement_3htE96": {
@@ -113,7 +113,7 @@
         "menu_delhi": "",
         "menu_gurgaon": "",
         "menu_roi": "",
-        "menu_type_desktop": "dropdown",
+        "menu_type_desktop": "mega",
         "sticky_header_type": "always",
         "show_line_separator": true,
         "mobile_logo_position": "center",
