@@ -17,7 +17,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/Rakhi-MOB-Tile.jpg",
             "gift_title": "Raksha Bandhan",
             "img_url": "shopify://collections/rakhi-view-all"
           }
@@ -27,7 +26,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/mothers-day-mobile-tile.jpg",
             "gift_title": "Mother's Day",
             "img_url": "https://thegiftstudio.com/collections/mothers-day"
           }
@@ -37,43 +35,42 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/fathers-day-mobile-tile.jpg",
             "gift_title": "Father's Day",
             "img_url": "https://thegiftstudio.com/collections/fathers-day-special"
           }
         },
         "55a0072b-ab8c-4303-8172-e45a1c3213af": {
           "type": "Text",
+          "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/BYOH.jpg",
             "gift_title": "Build YourOwn Hamper",
             "img_url": "https://thegiftstudio.com/pages/hamper-collections?bundle_id=1015"
           }
         },
         "text_UyRWRf": {
           "type": "Text",
+          "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/BIRTHDAY_4d1b6376-e4be-4e73-9cb4-5164caf2cbe3.jpg",
             "gift_title": "Birthday",
             "img_url": "https://thegiftstudio.com/collections/birthday-gifts-hampers"
           }
         },
         "text_kMcpwt": {
           "type": "Text",
+          "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/Internatinal-shipping.jpg",
             "gift_title": "International Delivery",
             "img_url": "shopify://pages/international-shipping"
           }
         },
         "text_JKAPRb": {
           "type": "Text",
+          "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/tiles.jpg",
             "gift_title": "Special Offer",
             "img_url": "https://thegiftstudio.com/collections/special-offers"
           }
@@ -83,7 +80,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/Womensdayi-tile-for-web.jpg",
             "gift_title": "Women's Day",
             "img_url": "https://thegiftstudio.com/collections/womens-day-gifts"
           }
@@ -93,7 +89,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/festive.png",
             "gift_title": "Harvest Festival",
             "img_url": "https://thegiftstudio.com/collections/diwali-gift-hampers"
           }
@@ -103,7 +98,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/NY_8a953870-f2db-4c2e-ac0e-6edffd090c6e.jpg",
             "gift_title": "New Year",
             "img_url": "https://thegiftstudio.com/collections/new-year"
           }
@@ -113,7 +107,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/X-mas-Tile.jpg",
             "gift_title": "Christmas",
             "img_url": "https://thegiftstudio.com/collections/christmas-1"
           }
@@ -123,34 +116,33 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/Holi-tile-for-web.jpg",
             "gift_title": "Holi",
             "img_url": "https://thegiftstudio.com/collections/holi-gift-hampers"
           }
         },
         "text_GVe4yN": {
           "type": "Text",
+          "disabled": true,
           "settings": {
             "city_hide": "hide_roi hide_kolkata",
-            "gift_img": "shopify://shop_images/top-24.jpg",
             "gift_title": "Same Day Delivery",
             "img_url": "https://thegiftstudio.com/collections/sdd-4pm-cut-off"
           }
         },
         "text_bKwBTf": {
           "type": "Text",
+          "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/Anniversary_e2800e06-ba61-4b8b-bd17-68cb5d0fc156.jpg",
             "gift_title": "Anniversary",
             "img_url": "https://thegiftstudio.com/collections/anniversary-gifts-for-couples"
           }
         },
         "text_DRiCe6": {
           "type": "Text",
+          "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/Unique.jpg",
             "gift_title": "Unique Gifts",
             "img_url": "https://thegiftstudio.com/collections/personalised-games"
           }
@@ -160,25 +152,24 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/Gifting_Query.jpg",
             "gift_title": "Gifting Query",
             "img_url": "https://thegiftstudio.com/pages/concierge-query"
           }
         },
         "3bd9214b-9c07-4134-8ff2-db68f1656795": {
           "type": "Text",
+          "disabled": true,
           "settings": {
             "city_hide": "hide_kolkata",
-            "gift_img": "shopify://shop_images/top-more-gifts.jpg",
             "gift_title": "More Gifts",
             "img_url": "shopify://collections/more-gifts"
           }
         },
         "b0234ac5-ebc4-4b9a-b7f7-7cc3005961b6": {
           "type": "Text",
+          "disabled": true,
           "settings": {
             "city_hide": "hide_kolkata",
-            "gift_img": "shopify://shop_images/corpotae-gifting.jpg",
             "gift_title": "Corporate Gifting",
             "img_url": "shopify://collections/corporate-gifting"
           }
@@ -188,7 +179,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "hide_mumbai hide_roi hide_gurgaon hide_delhi hide_pune hide_bangalore",
-            "gift_img": "shopify://shop_images/top-24.jpg",
             "gift_title": "Same Day Delivery",
             "img_url": "shopify://collections/same-day-delivery"
           }
@@ -198,7 +188,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "gift_img": "shopify://shop_images/top-Hampers.jpg",
             "gift_title": "Curated Hampers",
             "img_url": "shopify://collections/curated-hampers"
           }
@@ -208,7 +197,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "hide_roi",
-            "gift_img": "shopify://shop_images/top-Cakes.jpg",
             "gift_title": "Cakes",
             "img_url": "shopify://collections/cake"
           }
@@ -218,7 +206,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "hide_kolkata",
-            "gift_img": "shopify://shop_images/Birthdays_eaf366e3-a450-4286-b81b-c1e378153ed9.jpg",
             "gift_title": "Birthdays",
             "img_url": "shopify://collections/birthday-gifts-hampers"
           }
@@ -228,7 +215,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "hide_kolkata",
-            "gift_img": "shopify://shop_images/Anniversaries_b0f39063-c2a8-4e30-a9fe-c874affa4bf8.jpg",
             "gift_title": "Anniversaries",
             "img_url": "shopify://collections/anniversary-gifts-for-couples"
           }
@@ -238,7 +224,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "hide_pune hide_roi",
-            "gift_img": "shopify://shop_images/top-Flowers.jpg",
             "gift_title": "Flowers",
             "img_url": "shopify://collections/flowers"
           }
@@ -248,7 +233,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "hide_mumbai hide_roi hide_pune hide_bangalore hide_delhi hide_gurgaon",
-            "gift_img": "shopify://shop_images/top-more-gifts.jpg",
             "gift_title": "Gift Sets",
             "img_url": "shopify://collections/gift-sets"
           }
@@ -258,7 +242,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "hide_roi",
-            "gift_img": "shopify://shop_images/Birthdays_eaf366e3-a450-4286-b81b-c1e378153ed9.jpg",
             "gift_title": "Balloons",
             "img_url": "shopify://collections/balloons"
           }
@@ -305,8 +288,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/Rakhi-Brother-Hamper-Web.jpg",
-            "mob_banner": "shopify://shop_images/Rakhi-Brother-Hamper-MOB.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -326,8 +307,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "BNR_1_Rakhi",
-            "image": "shopify://shop_images/rakhi-web_1.jpg",
-            "mob_banner": "shopify://shop_images/rakhi-mob_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -347,8 +326,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/fatehrs-day-BNR-WEb.jpg",
-            "mob_banner": "shopify://shop_images/fatehrs-day-BNR-MOB.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -367,8 +344,6 @@
           "type": "slide",
           "settings": {
             "custom_class": "BNR_2_BYOH",
-            "image": "shopify://shop_images/BYOH--Web.jpg",
-            "mob_banner": "shopify://shop_images/BYOH-Mob.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -387,8 +362,6 @@
           "type": "slide",
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/web-_BNR2.jpg",
-            "mob_banner": "shopify://shop_images/B_W-MOB-_-BNR_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -408,8 +381,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/wedding-centric-BNR-web-12.jpg",
-            "mob_banner": "shopify://shop_images/wedding-centric-BNR-12--MOB.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -428,8 +399,6 @@
           "type": "slide",
           "settings": {
             "custom_class": "BNR_3_Corporate",
-            "image": "shopify://shop_images/corporate-gifting-BNR_1.jpg",
-            "mob_banner": "shopify://shop_images/MOB-_-BNR_074e3658-ebc8-46e7-93f8-b2eea6518044.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -449,8 +418,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/easter-web4.jpg",
-            "mob_banner": "shopify://shop_images/easter-mob.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -470,8 +437,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/Untitled-1_1.jpg",
-            "mob_banner": "shopify://shop_images/Untitled-2_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -491,8 +456,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/web-BNR-mar-end-yellow-shoot_1.webp",
-            "mob_banner": "shopify://shop_images/mob-BNR-mar-end-yellow-shoot.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -512,8 +475,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/Anniversary---WEB-Banner.webp",
-            "mob_banner": "shopify://shop_images/Anniversary_-_MOB_Banner.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -533,8 +494,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/Birthday_-_WEB_Banner.webp",
-            "mob_banner": "shopify://shop_images/Birthday_-_MOB_Banner.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -554,8 +513,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/BYOH_-_WEB_Banner.webp",
-            "mob_banner": "shopify://shop_images/BYOH_-_MOB_Banner.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -575,8 +532,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/last-minute-order-Vday-WEB.jpg",
-            "mob_banner": "shopify://shop_images/last-minute-order-Vday-MOB.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -596,8 +551,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/womens-Day-WEB-v2.jpg",
-            "mob_banner": "shopify://shop_images/womens-Day-MOBv2.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -617,8 +570,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/VDAY20.jpg",
-            "mob_banner": "shopify://shop_images/VDAY20-MOB.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -638,8 +589,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/mystical-Rose_1.jpg",
-            "mob_banner": "shopify://shop_images/mystic-rose-mob.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -659,8 +608,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/Wedding_-_WEB_Banner.jpg",
-            "mob_banner": "shopify://shop_images/Wedding_-_MOB_Banner.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -680,8 +627,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/New_Beginnings_TGS_WebBANNER.jpg",
-            "mob_banner": "shopify://shop_images/New_Beginnings_TGS_BANNER.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -701,8 +646,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/Home_Decor_TOP_BNR_1.jpg",
-            "mob_banner": "shopify://shop_images/Home_Decor_TOP_BNR.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -722,8 +665,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/Add_a_touch_of_warmth_TGS_WEB_BANNERS.jpg",
-            "mob_banner": "shopify://shop_images/Add_a_touch_of_warmth_TGS_BANNERS.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -743,8 +684,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_pune hide_bangalore  hide_roi hide_Delhi hide_kolkata",
-            "image": "shopify://shop_images/express-delivery_1.jpg",
-            "mob_banner": "shopify://shop_images/express-delivery-mob_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -764,8 +703,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/1920_x_533_BYOH_Banner.jpg",
-            "mob_banner": "shopify://shop_images/936x600_BYOH_Banner_ce03b645-6e85-4a5f-8718-2a6a8297aa84.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -785,8 +722,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/NY_Desktop_1.png",
-            "mob_banner": "shopify://shop_images/NY_Mobile_1.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -806,8 +741,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/tgs-web-bannr.jpg",
-            "mob_banner": "shopify://shop_images/tgs-web-bannr-2.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -827,8 +760,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/wedding_banner_21.png",
-            "mob_banner": "shopify://shop_images/wedding_banner_desktop_21.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -848,8 +779,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/1920x533_birthday_new_1.png",
-            "mob_banner": "shopify://shop_images/936x600_birthday.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -869,8 +798,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/1920x533_art_of_gifting_2.png",
-            "mob_banner": "shopify://shop_images/936x600_art_of_gifting_1.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -890,8 +817,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/1920_x_533_jewellery_banner_II.jpg",
-            "mob_banner": "shopify://shop_images/936x600_jewellery_banner_II.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -911,8 +836,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_pune hide_bangalore hide_delhi hide_roi hide_mumbai hide_gurgaon",
-            "image": "shopify://shop_images/Outbox_Experiences_-_Desktop_Banner.jpg",
-            "mob_banner": "shopify://shop_images/Outbox_Experiences_-_Mobile_Banner.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -932,8 +855,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_pune hide_bangalore hide_delhi hide_roi hide_mumbai hide_gurgaon",
-            "image": "shopify://shop_images/Bar_Accessories_-_Desktop_Banner.jpg",
-            "mob_banner": "shopify://shop_images/Bar_Accessories_-_Mobile_Banner.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -953,8 +874,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_pune hide_bangalore hide_delhi hide_roi hide_mumbai hide_gurgaon",
-            "image": "shopify://shop_images/Curated_Hampers_-_Desktop_Banner.jpg",
-            "mob_banner": "shopify://shop_images/Curated_Hampers_-_Mobile_Banner.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -974,8 +893,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_kolkata",
-            "image": "shopify://shop_images/Gifts_for_her_banner_-_Desktop.jpg",
-            "mob_banner": "shopify://shop_images/Gifts_for_her_banner_-_Mobile.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -995,8 +912,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_roi hide_bangalore hide_delhi hide_pune hide_gurgaon",
-            "image": "shopify://shop_images/1920x_533_New_cake_banner_3450f256-e5b0-4cc8-ad5a-283f657f19ca.jpg",
-            "mob_banner": "shopify://shop_images/936x600_New_cake_banner.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1016,8 +931,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_kolkata",
-            "image": "shopify://shop_images/Gifts_for_him_banner_-_Desktop.jpg",
-            "mob_banner": "shopify://shop_images/Gifts_for_him_banner_-_Mobile.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1037,8 +950,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_kolkata",
-            "image": "shopify://shop_images/Desktop_image_-_Corporate_Banner.jpg",
-            "mob_banner": "shopify://shop_images/Mobile_Image_Corporate_Banner_36ce0a90-51b8-480f-aa9f-1da41700549d.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1058,8 +969,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/Rakhi_Banner_Refresh_-_Desktop.jpg",
-            "mob_banner": "shopify://shop_images/Rakhi_Banner_Refresh_-_Mobile.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1079,8 +988,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_Kolkata",
-            "image": "shopify://shop_images/1920_x_533_fathers_day_banner_15_OFF.jpg",
-            "mob_banner": "shopify://shop_images/936x600_fathers_day_mobile_banner_15_OFF.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1100,8 +1007,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/Father_s_Day_POC_Website_Banner_-_Desktop.jpg",
-            "mob_banner": "shopify://shop_images/Father_s_Day_POC_Website_Banner_-_Mobile.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1121,8 +1026,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_pune hide_bangalore hide_delhi hide_roi hide_mumbai hide_gurgaon",
-            "image": "shopify://shop_images/Home_Decor_Banner_-_Desktop_1.jpg",
-            "mob_banner": "shopify://shop_images/Home_Decor_Banner_-_Mobile_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1142,8 +1045,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_pune hide_bangalore  hide_roi hide_gurgaon",
-            "image": "shopify://shop_images/1920_x_533_new_hamper_banner_1.jpg",
-            "mob_banner": "shopify://shop_images/936x600_new_hamper_banner_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1163,8 +1064,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "",
-            "image": "shopify://shop_images/Friendship_Day_2_-_Desktop_Banner.png",
-            "mob_banner": "shopify://shop_images/Friendship_Day_2_-_Mobile_Banner.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1184,8 +1083,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_pune hide_bangalore hide_delhi hide_roi hide_mumbai hide_gurgaon",
-            "image": "shopify://shop_images/POC_Combos_Desktop_banner_1.jpg",
-            "mob_banner": "shopify://shop_images/POC_Combos_Mobile_banner_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1205,8 +1102,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_pune hide_bangalore hide_delhi hide_roi hide_mumbai hide_gurgaon",
-            "image": "shopify://shop_images/Flowers_-_Desktop_Banner.jpg",
-            "mob_banner": "shopify://shop_images/Flowers_Mobile_Banner.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1226,8 +1121,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_pune hide_bangalore hide_delhi hide_roi hide_mumbai hide_gurgaon",
-            "image": "shopify://shop_images/Gift_Sets_-_Dektop_Banner.jpg",
-            "mob_banner": "shopify://shop_images/Gift_Sets_-_Mobile_Banner.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1247,8 +1140,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_pune hide_bangalore hide_delhi hide_roi hide_mumbai hide_gurgaon",
-            "image": "shopify://shop_images/Balloons_-_Desktop_Banner.jpg",
-            "mob_banner": "shopify://shop_images/Balloons_Mobile_Banner.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1268,8 +1159,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_pune hide_bangalore hide_delhi hide_roi hide_mumbai hide_gurgaon",
-            "image": "shopify://shop_images/Saregama_Carvaan_-_Desktop_Banner.jpg",
-            "mob_banner": "shopify://shop_images/Saregama_Carvaan_-_Mobile_Banner.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1289,8 +1178,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_kolkata",
-            "image": "shopify://shop_images/1920x_533_homepage_banner_233e5d95-bad0-4bf0-85e9-e154e3689b8b.jpg",
-            "mob_banner": "shopify://shop_images/936x600_homepage_banner_50a6b6f7-d76e-490f-91ee-09105f0eddcf.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1310,8 +1197,6 @@
           "disabled": true,
           "settings": {
             "custom_class": "hide_kolkata",
-            "image": "shopify://shop_images/1920_x_533_ak_banner_final.jpg",
-            "mob_banner": "shopify://shop_images/936x600_ak_banner.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -1421,7 +1306,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Birthday_5963d1eb-2d99-46c2-883c-8df2a903e7b5.jpg",
             "coll_title": "Birthday Selection",
             "card_url": "https://thegiftstudio.com/collections/birthday-curated-hampers"
           }
@@ -1430,7 +1314,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Annivarsary.jpg",
             "coll_title": "Anniversary Range",
             "card_url": "https://thegiftstudio.com/collections/anniversary-gifts-for-couples"
           }
@@ -1439,7 +1322,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Wedding.jpg",
             "coll_title": "Wedding Series",
             "card_url": "https://thegiftstudio.com/collections/curated-hamper-wedding"
           }
@@ -1449,7 +1331,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Hug_me_tight.jpg",
             "coll_title": "Hug Me Tight",
             "card_url": "https://thegiftstudio.com/collections/hug-day"
           }
@@ -1459,7 +1340,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Seal_with_Kiss.jpg",
             "coll_title": "Seal with kiss",
             "card_url": "https://thegiftstudio.com/collections/kiss-day"
           }
@@ -1469,7 +1349,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Rosey_Surprise.jpg",
             "coll_title": "Rosey Surprise",
             "card_url": "https://thegiftstudio.com/collections/rose-day"
           }
@@ -1479,7 +1358,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Heartfelt_Promises.jpg",
             "coll_title": "heartfelt promises",
             "card_url": "https://thegiftstudio.com/collections/promise-day"
           }
@@ -1489,7 +1367,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Evening_Gaze_v2.jpg",
             "coll_title": "Anniversary Gifts",
             "card_url": "https://thegiftstudio.com/collections/anniversary-gifts-for-couples"
           }
@@ -1498,7 +1375,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Home_Decor.jpg",
             "coll_title": "Home Decor",
             "card_url": "https://thegiftstudio.com/collections/tgs-home"
           }
@@ -1507,7 +1383,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Couple_Games_e8b632e6-8f16-4a4f-ad6c-0ff820ac1c0f.jpg",
             "coll_title": "Couple Games",
             "card_url": "https://thegiftstudio.com/collections/couple-games"
           }
@@ -1544,7 +1419,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "Rakhi",
-            "coll_img": "shopify://shop_images/RAKHIS.jpg",
             "coll_title": "Rakhi",
             "card_url": "shopify://collections/rakhis"
           }
@@ -1553,7 +1427,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "Hamper for Brother",
-            "coll_img": "shopify://shop_images/BRO_Hamper.jpg",
             "coll_title": "Hampers for Brother",
             "card_url": "https://thegiftstudio.com/collections/rakhi-gift-for-brother"
           }
@@ -1562,7 +1435,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/SIS_Hamper.jpg",
             "coll_title": "Hampers for sister",
             "card_url": "https://thegiftstudio.com/collections/rakhi-gifts-for-sister"
           }
@@ -1571,7 +1443,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/BHAIYA_BHABI_Hamper.jpg",
             "coll_title": "Hampers for bhaiya-bhabhi",
             "card_url": "https://thegiftstudio.com/collections/rakhi-gifts-for-bhaiya-bhabhi"
           }
@@ -1580,7 +1451,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/KIDS_1.jpg",
             "coll_title": "Hampers For Kids",
             "card_url": "https://thegiftstudio.com/collections/rakhi-gift-for-kids"
           }
@@ -1658,7 +1528,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Birthday_5963d1eb-2d99-46c2-883c-8df2a903e7b5.jpg",
             "coll_title": "Birthday Selection",
             "card_url": "https://thegiftstudio.com/collections/birthday-curated-hampers"
           }
@@ -1667,7 +1536,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Annivarsary.jpg",
             "coll_title": "Anniversary Range",
             "card_url": "https://thegiftstudio.com/collections/anniversary-gifts-for-couples"
           }
@@ -1676,7 +1544,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Wedding.jpg",
             "coll_title": "Wedding Series",
             "card_url": "https://thegiftstudio.com/collections/curated-hamper-wedding"
           }
@@ -1686,7 +1553,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Hug_me_tight.jpg",
             "coll_title": "Hug Me Tight",
             "card_url": "https://thegiftstudio.com/collections/hug-day"
           }
@@ -1696,7 +1562,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Seal_with_Kiss.jpg",
             "coll_title": "Seal with kiss",
             "card_url": "https://thegiftstudio.com/collections/kiss-day"
           }
@@ -1706,7 +1571,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Rosey_Surprise.jpg",
             "coll_title": "Rosey Surprise",
             "card_url": "https://thegiftstudio.com/collections/rose-day"
           }
@@ -1716,7 +1580,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Heartfelt_Promises.jpg",
             "coll_title": "heartfelt promises",
             "card_url": "https://thegiftstudio.com/collections/promise-day"
           }
@@ -1726,7 +1589,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Evening_Gaze_v2.jpg",
             "coll_title": "Anniversary Gifts",
             "card_url": "https://thegiftstudio.com/collections/anniversary-gifts-for-couples"
           }
@@ -1735,7 +1597,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Home_Decor.jpg",
             "coll_title": "Home Decor",
             "card_url": "https://thegiftstudio.com/collections/tgs-home"
           }
@@ -1744,7 +1605,6 @@
           "type": "collection",
           "settings": {
             "city_hide": "",
-            "coll_img": "shopify://shop_images/Couple_Games_e8b632e6-8f16-4a4f-ad6c-0ff820ac1c0f.jpg",
             "coll_title": "Couple Games",
             "card_url": "https://thegiftstudio.com/collections/couple-games"
           }
@@ -1779,8 +1639,6 @@
         "column_8rnLVP": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Pink_Perfection_1.webp",
-            "mob_banner": "shopify://shop_images/Pink_Perfection_1.webp",
             "title": "",
             "text": "<p>For Her</p>",
             "city_text": "",
@@ -1791,8 +1649,6 @@
         "column_hMK6yD": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/For_Him_15638a8d-7212-46f8-a13d-c597411cbb43.jpg",
-            "mob_banner": "shopify://shop_images/For_Him_15638a8d-7212-46f8-a13d-c597411cbb43.jpg",
             "title": "",
             "text": "<p>For Him</p>",
             "city_text": "",
@@ -1803,8 +1659,6 @@
         "column_6tYyhc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Corporate_Connections.webp",
-            "mob_banner": "shopify://shop_images/Corporate_Connections_b528494e-f152-4f1e-93e9-d52ed7846a29.webp",
             "title": "",
             "text": "<p>Corporate Connection</p>",
             "city_text": "",
@@ -1815,8 +1669,6 @@
         "column_yrfBBg": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Kids_Babies.jpg",
-            "mob_banner": "shopify://shop_images/Kids_Babies.jpg",
             "title": "",
             "text": "<p>Kids & Babies</p>",
             "city_text": "",
@@ -1827,8 +1679,6 @@
         "column_N77wXk": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Parents_cfd08d3e-5e04-49cd-8c37-fa071c49b65e.jpg",
-            "mob_banner": "shopify://shop_images/Parents_cfd08d3e-5e04-49cd-8c37-fa071c49b65e.jpg",
             "title": "",
             "text": "<p>Parents</p>",
             "city_text": "",
@@ -1870,7 +1720,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "hide_roi",
-            "category_img": "shopify://shop_images/Group_142784.png",
             "category_title": "Cakes",
             "img_url": "shopify://collections/cake"
           }
@@ -1879,7 +1728,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "hide_roi",
-            "category_img": "shopify://shop_images/Flowers.png",
             "category_title": "Flowers",
             "img_url": "shopify://collections/flowers"
           }
@@ -1888,7 +1736,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "hide_roi",
-            "category_img": "shopify://shop_images/Balloons.png",
             "category_title": "Balloons",
             "img_url": "shopify://collections/balloons"
           }
@@ -1897,7 +1744,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/Gift_sets.png",
             "category_title": "Gift Sets",
             "img_url": "shopify://collections/gift-sets"
           }
@@ -1906,7 +1752,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "hide_kolkata",
-            "category_img": "shopify://shop_images/Personal_care.png",
             "category_title": "Personal Care & Grooming",
             "img_url": "shopify://collections/personal-care-1"
           }
@@ -1915,7 +1760,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "hide_kolkata",
-            "category_img": "shopify://shop_images/Baby_Kids.png",
             "category_title": "Baby & Kids",
             "img_url": "shopify://collections/baby-kids"
           }
@@ -1924,7 +1768,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/Electronics.png",
             "category_title": "Electronics",
             "img_url": "shopify://collections/electronics"
           }
@@ -1933,7 +1776,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "hide_mumbai hide_pune hide_bangalore hide_delhi hide_gurgaon hide_roi",
-            "category_img": "shopify://shop_images/chefling_icon_59f3904c-6e36-49af-a86f-5fb160630fc0.png",
             "category_title": "DIY Kits",
             "img_url": "shopify://collections/diy-kits"
           }
@@ -1943,7 +1785,6 @@
           "disabled": true,
           "settings": {
             "city_hide": "hide_mumbai hide_pune hide_bangalore hide_delhi hide_gurgaon hide_roi",
-            "category_img": "shopify://shop_images/spirits.png",
             "category_title": "Spirits",
             "img_url": "shopify://collections/spirits"
           }
@@ -1952,7 +1793,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/pg-2.png",
             "category_title": "Personalised Games",
             "img_url": "shopify://collections/personalised-games"
           }
@@ -2126,7 +1966,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/Birthday.svg",
             "category_title": "Birthday",
             "img_url": "shopify://collections/birthday-gifts-hampers"
           }
@@ -2135,7 +1974,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/Anniversary.svg",
             "category_title": "Anniversary",
             "img_url": "shopify://collections/anniversary-gifts-for-couples"
           }
@@ -2144,7 +1982,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/Housewarming.svg",
             "category_title": "Housewarming",
             "img_url": "shopify://collections/housewarming"
           }
@@ -2153,7 +1990,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/Weddings.svg",
             "category_title": "Weddings",
             "img_url": "shopify://collections/wedding-gifts-for-couples"
           }
@@ -2162,7 +1998,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/Baby_Shower.svg",
             "category_title": "Baby Shower",
             "img_url": "https://thegiftstudio.com/collections/curated-hamper-baby-shower"
           }
@@ -2171,7 +2006,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/Congratulations.svg",
             "category_title": "Congratulations",
             "img_url": "shopify://collections/congratulations"
           }
@@ -2180,7 +2014,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/Farewell.svg",
             "category_title": "Farewell",
             "img_url": "shopify://collections/farewell"
           }
@@ -2189,7 +2022,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/Get_Well_Soon.svg",
             "category_title": "Get Well Soon",
             "img_url": "shopify://collections/get-well-soon"
           }
@@ -2198,7 +2030,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/Proposal.svg",
             "category_title": "Proposal",
             "img_url": "shopify://collections/proposal"
           }
@@ -2231,8 +2062,6 @@
         "665dd073-5588-4f63-9ce7-4b730da2283f": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Anamika_Khanna.jpg",
-            "second_image": "shopify://shop_images/AK_work.jpg",
             "title": "Anamika Khanna",
             "text": "<p>Redefining Style with an <br/>Artistic Twist in a <br/>Handpicked Curation</p>",
             "link_label": "Shop Now",
@@ -2242,8 +2071,6 @@
         "c73519f9-1986-40f0-95c2-95a04719f7c2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/MF_Hussain.jpg",
-            "second_image": "shopify://shop_images/MF_work.jpg",
             "title": "MF Hussain",
             "text": "<p>Immortalizing Artistic <br/>Brilliance in a Captivating <br/>Curated Hamper</p>",
             "link_label": "Shop Now",
@@ -2253,8 +2080,6 @@
         "a6029e6e-236e-4c1c-9251-44258864f4fc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Paresh_Maity.jpg",
-            "second_image": "shopify://shop_images/PM_work.jpg",
             "title": "Paresh Maity",
             "text": "<p>Evoking Emotions with <br/>Brushstrokes in a Curated <br/>Artistic Hamper</p>",
             "link_label": "Shop Now",
@@ -2265,8 +2090,6 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/K_Bose.jpg",
-            "second_image": "shopify://shop_images/BK_work.jpg",
             "title": "Bose<br> Krishnamachari",
             "text": "<p>A Fusion of Vision and  Expression in a Curated Artistic Hamper of Unparalleled Beauty</p>",
             "link_label": "Shop Now",
@@ -2331,8 +2154,6 @@
       ],
       "settings": {
         "custom_class": "wedding_gift_section",
-        "image": "shopify://shop_images/wedding_gift.jpg",
-        "mob_img": "shopify://shop_images/wedding_gift_mobile.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -2378,8 +2199,6 @@
       ],
       "settings": {
         "custom_class": "wedding_gift_section",
-        "image": "shopify://shop_images/wedding-section-IMG_1.jpg",
-        "mob_img": "shopify://shop_images/wedding-section-IMG_1.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -2398,8 +2217,6 @@
       "disabled": true,
       "settings": {
         "custom_class": "offers_banner_section",
-        "image": "shopify://shop_images/kimrica_desktop.png",
-        "mob_banner": "shopify://shop_images/kimrica_mobile.png",
         "banner_link": "shopify://collections/kimirica",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
@@ -2419,8 +2236,6 @@
       "type": "image-banner",
       "settings": {
         "custom_class": "offers_banner_section",
-        "image": "shopify://shop_images/1920_x_533_SOCIAL_CAUSE_banner_500d6597-8154-4fa4-befa-8570b7559956.jpg",
-        "mob_banner": "shopify://shop_images/936x600_social_cause_new_copy_banner.jpg",
         "banner_link": "",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
@@ -2443,7 +2258,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/celeb-1.jpg",
             "category_title": "",
             "img_url": "https://in.hellomagazine.com/lifestyle/20221018301523/anshula-kapoor-recommends-the-gift-studio/"
           }
@@ -2452,7 +2266,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/celeb-2.jpg",
             "category_title": "",
             "img_url": "https://www.pinkvilla.com/entertainment/news/pinkvilla-style-icons-2-anamika-khanna-won-the-gift-studio-presents-trailblazing-fashion-designer-of-the-year-1216441"
           }
@@ -2461,7 +2274,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/celeb-3.jpg",
             "category_title": "",
             "img_url": ""
           }
@@ -2470,7 +2282,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/celeb-4.jpg",
             "category_title": "",
             "img_url": ""
           }
@@ -2479,7 +2290,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/celeb-5.jpg",
             "category_title": "",
             "img_url": ""
           }
@@ -2488,7 +2298,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/celeb-6.jpg",
             "category_title": "",
             "img_url": ""
           }
@@ -2497,7 +2306,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/celeb-7.jpg",
             "category_title": "",
             "img_url": "https://www.pinkvilla.com/entertainment/news/the-gift-studio-partners-with-pinkvilla-as-gifting-partner-for-pinkvilla-style-icons-2-1214528"
           }
@@ -2506,7 +2314,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/celeb-8.jpg",
             "category_title": "",
             "img_url": ""
           }
@@ -2515,7 +2322,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/celeb-9.jpg",
             "category_title": "",
             "img_url": "https://www.tollywood.net/telugu-actress-ties-rakhi-to-kajal-agarwal-husband-gautam-kitchlu/"
           }
@@ -2524,7 +2330,6 @@
           "type": "Text",
           "settings": {
             "city_hide": "",
-            "category_img": "shopify://shop_images/celeb-10.jpg",
             "category_title": "",
             "img_url": "https://www.pinkvilla.com/entertainment/news/the-ultimate-bollywood-gifting-guide-1220812"
           }
@@ -2599,8 +2404,6 @@
       "disabled": true,
       "settings": {
         "custom_class": "happiness_circle_section",
-        "image": "shopify://shop_images/Gift-banner.jpg",
-        "mob_banner": "shopify://shop_images/Gift-Banner01.jpg",
         "banner_link": "",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
