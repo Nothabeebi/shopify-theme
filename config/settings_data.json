@@ -120,9 +120,9 @@
     "brand_headline": "",
     "brand_description": "<p></p>",
     "brand_image_width": 100,
-    "social_facebook_link": "https://www.facebook.com/giftstudioofficial",
-    "social_instagram_link": "https://www.instagram.com/thegiftstudioofficial/",
-    "social_youtube_link": "https://www.youtube.com/@thegiftstudio_",
+    "social_facebook_link": "https://www.facebook.com/charmology.in",
+    "social_instagram_link": "https://www.instagram.com/charmology.in",
+    "social_youtube_link": "https://www.youtube.com/@charmology.in",
     "social_tiktok_link": "",
     "social_twitter_link": "",
     "social_snapchat_link": "",
@@ -175,61 +175,7 @@
         }
       }
     },
-    "content_for_index": [],
-    "blocks": {
-      "319724205969189013": {
-        "type": "shopify://apps/hulk-form-builder/blocks/app-embed/b6b8dd14-356b-4725-a4ed-77232212b3c3",
-        "disabled": false,
-        "settings": {}
-      },
-      "6174324309569838175": {
-        "type": "shopify://apps/smile-io/blocks/smile-shopify-app/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
-        "disabled": true,
-        "settings": {}
-      },
-      "14167655181940180261": {
-        "type": "shopify://apps/quinn-shoppable-reel/blocks/app-embed/483fa771-9c4d-49e4-8c0d-0155f4b872d6",
-        "disabled": false,
-        "settings": {}
-      },
-      "2766656906679212237": {
-        "type": "shopify://apps/quinn-shoppable-reel/blocks/app-embed-legacy/483fa771-9c4d-49e4-8c0d-0155f4b872d6",
-        "disabled": false,
-        "settings": {}
-      },
-      "5675702388904904992": {
-        "type": "shopify://apps/avada-seo-suite/blocks/avada-seo/15507c6e-1aa3-45d3-b698-7e175e033440",
-        "disabled": true,
-        "settings": {}
-      },
-      "15248664582119306304": {
-        "type": "shopify://apps/verifast-ai-sales-agent/blocks/chat_bot/e8318cdf-ff4f-416b-b090-1fb4ad1a937c",
-        "disabled": false,
-        "settings": {}
-      },
-      "14060646107696862457": {
-        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {}
-      },
-      "3576686563519644491": {
-        "type": "shopify://apps/vwo/blocks/vwo-smartcode/2ce905b2-3842-4d20-b6b0-8c51fc208426",
-        "disabled": true,
-        "settings": {
-          "vwoAccountId": "1054201",
-          "codeType": "ASYNC",
-          "settingsTolerance": 2000,
-          "libraryTolerance": 2500,
-          "existingJquery": "false",
-          "enableThemeTesting": false
-        }
-      },
-      "12973772748516043749": {
-        "type": "shopify://apps/bitespeed-whatsapp-marketing/blocks/app-embed/9efdb9ca-2d01-4a12-b1ac-02679fe0f6fc",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Default": {
